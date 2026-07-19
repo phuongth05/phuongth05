@@ -31,53 +31,47 @@ I am currently exploring:
 - Deep learning architectures such as CNNs, LSTMs, and Transformers
 - AI agents and LLM-powered applications
 
-## Một Chút Về Mình
-
-Mình là sinh viên FIT@HCMUS, đang học và thử nghiệm nhiều thứ trong AI. Mình thích đọc paper, tự build lại model/project nhỏ, và biến mấy ý tưởng hơi "vui vui" thành một thứ chạy được thật.
-
----
-
 ## Tech Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square)
-![C](https://img.shields.io/badge/C-555555?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 **AI / Machine Learning**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 **Computer Vision / Deep Learning**
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat-square)
-![OCR/ANPR](https://img.shields.io/badge/OCR%20%2F%20ANPR-0F766E?style=flat-square)
-![Transformers](https://img.shields.io/badge/Transformers-7C3AED?style=flat-square)
-![VLMs](https://img.shields.io/badge/Vision--Language%20Models-2563EB?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat)
+![OCR/ANPR](https://img.shields.io/badge/OCR%20%2F%20ANPR-0F766E?style=flat)
+![Transformers](https://img.shields.io/badge/Transformers-7C3AED?style=flat)
+![VLMs](https://img.shields.io/badge/Vision--Language%20Models-2563EB?style=flat)
 
 **AI Systems / Backend**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![LangSmith](https://img.shields.io/badge/LangSmith-334155?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![LangSmith](https://img.shields.io/badge/LangSmith-334155?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square)
-![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
