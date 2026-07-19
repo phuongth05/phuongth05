@@ -6,18 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/phuongth05">
-    <img src="https://img.shields.io/badge/GitHub-phuongth05-181717?style=flat&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/h%E1%BB%93ng-ph%C6%B0%C6%A1ng-tr%E1%BA%A7n-79332b361/">
-    <img src="https://img.shields.io/badge/LinkedIn-Hong%20Phuong%20Tran-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.kaggle.com/phngtrnhng">
-    <img src="https://img.shields.io/badge/Kaggle-phngtrnhng-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-  <a href="https://www.facebook.com/siunhangaodo/">
-    <img src="https://img.shields.io/badge/Facebook-Profile-0866FF?style=flat&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
+  <a href="https://github.com/phuongth05">GitHub</a>
+  ·
+  <a href="https://www.linkedin.com/in/h%E1%BB%93ng-ph%C6%B0%C6%A1ng-tr%E1%BA%A7n-79332b361/">LinkedIn</a>
+  ·
+  <a href="https://www.kaggle.com/phngtrnhng">Kaggle</a>
+  ·
+  <a href="https://www.facebook.com/siunhangaodo/">Facebook</a>
 </p>
 
 ---
@@ -44,34 +39,14 @@ Minh la sinh vien FIT@HCMUS, dang hoc va thu nghiem nhieu thu trong AI. Minh thi
 
 ## Tech Stack
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-**AI / Machine Learning**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-
-**AI Systems / Backend**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+| Area | Tools and Technologies |
+| --- | --- |
+| Programming | `Python`, `C`, `C++`, `SQL` |
+| Machine Learning | `PyTorch`, `scikit-learn`, `NumPy`, `pandas`, `Hugging Face` |
+| Deep Learning | `CNNs`, `RNNs/LSTMs`, `Transformers`, `Vision-Language Models` |
+| Computer Vision | `OpenCV`, `YOLO`, `OCR/ANPR`, image preprocessing |
+| AI Systems | `FastAPI`, `LangChain`, `LangGraph`, `LangSmith` |
+| Tools | `Git`, `GitHub`, `Docker`, `Linux`, `Google Colab`, `Jupyter Notebook`, `MS SQL` |
 
 ---
 
@@ -110,12 +85,12 @@ I am trying to get better at:
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=phuongth05&show_icons=true&theme=default&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuongth05&layout=compact&theme=default&hide_border=true" alt="Top languages"/>
-</p>
+I mainly use GitHub to keep track of study notes, research reproductions, data projects, and small AI experiments.
+
+- Profile: [github.com/phuongth05](https://github.com/phuongth05)
+- Repositories: [github.com/phuongth05?tab=repositories](https://github.com/phuongth05?tab=repositories)
 
 ---
 
